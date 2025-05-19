@@ -747,10 +747,10 @@
   dependencies:
     "@babel/types" "^7.20.7"
 
-"@types/chrome@^0.0.304":
-  version "0.0.304"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.304.tgz#8d696ba6c0bb464c3f23fdfa61326439469ea55c"
-  integrity sha512-ms9CLILU+FEMK7gcmgz/Mtn2E81YQWiMIzCFF8ktp98EVNIIfoqaDTD4+ailOCq1sGjbnEmfJxQ1FAsQtk5M3A==
+"@types/chrome@^0.0.323":
+  version "0.0.323"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.323.tgz#8e6d3ffaca47a9c8ce6f60d25634d26aba3c4cfb"
+  integrity sha512-ipiDwx41lmGeLnbiT6ENOayvWXdkqKqNwqDQWEuz6dujaX7slSkk1nbSt5Q5c6xnQ708+kuCFrC00VLltSbWVA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
